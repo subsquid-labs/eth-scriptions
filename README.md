@@ -1,7 +1,11 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/subsquid/squid-evm-template)
 
 # Ethscriptions squid
-<iframe width="1707" height="723" src="https://www.youtube.com/embed/mckFY-UufEQ" title="Indexing Ethscriptions (Inscriptions on ETH) with Subsquid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+https://github.com/subsquid-labs/eth-scriptions/assets/25107309/61580919-c6ec-4386-b7cf-a68a3fe627f5
+
+
 ## Overview
 This repository contains the EthScriptions Indexer, a tool designed to index Ethereum transactions specifically for 'ethscriptions', using the Squid SDK. It features functionality to decode transaction inputs, verify Data URIs for correctness and uniqueness, and efficiently manage and query indexed data.
 
