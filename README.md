@@ -3,13 +3,18 @@
 # Ethscriptions squid
 
 ## Overview
-This repository contains the Ethereum Inscriptions Indexer, a tool designed to index Ethereum transactions specifically for 'ethscriptions', using the Subsquid SDK. It features functionality to decode transaction inputs, verify Data URIs for correctness and uniqueness, and efficiently manage and query indexed data.
+This repository contains the EthScriptions Indexer, a tool designed to index Ethereum transactions specifically for 'ethscriptions', using the Squid SDK. It features functionality to decode transaction inputs, verify Data URIs for correctness and uniqueness, and efficiently manage and query indexed data.
 
 ## Features
-# 1.Transaction Decoding: Decodes Ethereum transaction inputs to extract relevant data.
-# 2.Data URI Verification: Validates the format and uniqueness of Data URIs in the transactions.
-# 3.Uniqueness Check: Ensures that each inscription is unique within the blockchain context.
 
+1. **Transaction Decoding**: 
+   - Decodes Ethereum transaction inputs to extract relevant data.
+
+2. **Data URI Verification**: 
+   - Validates the format and uniqueness of Data URIs in the transactions.
+
+3. **Uniqueness Check**: 
+   - Ensures that each inscription is unique within the blockchain context.
 
 ## Quickstart
 
