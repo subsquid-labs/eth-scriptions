@@ -1,6 +1,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/subsquid/squid-evm-template)
 
-# Minimal EVM squid
+# Ethscriptions squid
 
 This is a starter template of a squid indexer for EVM networks (Ethereum, Polygon, BSC, etc.). See [Squid SDK docs](https://docs.subsquid.io/) for a complete reference.
 
