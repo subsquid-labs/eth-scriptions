@@ -23,7 +23,6 @@ processor.run(new TypeormDatabase({ supportHotBlocks: true }), async (ctx) => {
         //console.log(decodedData);
         if (isValidDataUri(decodedData)) {
           if (decodedData.includes("rule=esip6")) {
-            console.log("esip6");
             inscriptions.push(
               new Inscription({
                 id: tx.hash,
@@ -38,7 +37,6 @@ processor.run(new TypeormDatabase({ supportHotBlocks: true }), async (ctx) => {
             !newUniqueInscriptions.has(decodedData)
           ) {
             //console.log("new");
-            console.log(decodedData);
             newUniqueInscriptions.set(
               decodedData,
               new Inscription({
