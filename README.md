@@ -53,7 +53,7 @@ sqd serve
 
 ## Project conventions
 
-Squid tools assume a certain [project layout](https://docs.subsquid.io/basics/squid-structure):
+Squid tools assume a certain [project layout](https://docs.sqd.dev/en/sdk):
 
 * All compiled js files must reside in `lib` and all TypeScript sources in `src`.
 The layout of `lib` must reflect `src`.
